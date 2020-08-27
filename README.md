@@ -1,10 +1,10 @@
-# movieApp themoviedb
+# movieApp [themoviedb]
 
 
 
 [![Watch the video](https://github.com/priyangamani/movieApp/blob/master/screenshots/Screenshot%202020-08-27%20at%2010.09.12%20PM.png)
 
-[![Watch the video](https://github.com/priyangamani/movieApp/blob/master/screenshots/Detailed.png)
+[![Watch the video](https://github.com/priyangamani/movieApp/blob/master/screenshots/Screenshot%202020-08-27%20at%2010.09.21%20PM.png)
 
 Before Run
 Create an api key in themoviedb
